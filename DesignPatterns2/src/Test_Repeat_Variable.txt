@@ -1,0 +1,6 @@
+$repeat = 10
+repeat $repeat
+   move 10
+   penUp
+   turn 60
+end

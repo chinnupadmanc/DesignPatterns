@@ -1,0 +1,7 @@
+move 10
+penDown
+repeat 5
+   move 20
+   turn 90
+end
+move 10
